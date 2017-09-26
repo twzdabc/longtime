@@ -12,7 +12,7 @@
 
 ## 以下针对经常被提及的问题进行说明
 ### 页面跳转问题
-     <a href="https://meilixiaoru.github.io" class="thumbnail">
+     <a href="https://longtime.github.io" class="thumbnail">
      	<img src="img/4.jpg" alt="...">
      </a>
      
